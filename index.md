@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# Jaeseong Yun
 
-You can use the [editor on GitHub](https://github.com/jaeseongyun/jaeseongyun.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Vision researcher at NAVER LABS Corp. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Research Area
 
-### Markdown
+**Image processing and computer vision**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Visual processing for 3D point clouds (reflection removal, saliency detection, etc.)
 
-```markdown
-Syntax highlighted code block
+## Education
 
-# Header 1
-## Header 2
-### Header 3
+**2015.03 ~ 2020.02 Ph.D. UNIST**
+- Department of Electrical Engineering
+- Dissertation: Reflection removal of 3D point clouds for realistic 3D scene reconstruction
+- Advisor: Jae-Young Sim
 
-- Bulleted
-- List
+**2011.03 ~ 2015.02 B.S. UNIST**
+- School of Electrical and Computer Engineering
 
-1. Numbered
-2. List
+## Employment History
 
-**Bold** and _Italic_ and `Code` text
+**2021.03 ~ Present**
+- Vision researcher, NAVER LABS Corp. 
 
-[Link](url) and ![Image](src)
-```
+**2018.03 ~ 2021.03**
+- Researcher, UNIST
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**2013.07 ~ 2015.02**
+- Research internship in Visual Information Processing Lab., UNIST
 
-### Jekyll Themes
+## Awards & Honors
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jaeseongyun/jaeseongyun.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Naver Ph.D. Fellowship Awards, 2018
+- National Science and Engineering Undergraduate Scholarship, 2011 ~ 2014
 
-### Support or Contact
+## Publications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- **Jae-Seong Yun** and Jae-Young Sim, "Virtual Point Removal for Large-Scale 3D Point Clouds with Multiple Glass Planes," _IEEE Trans. Pattern Anal. Mach. Intell._, vol. 43, no. 2, pp. 729-744, Feb. 2021.
+- **Jae-Seong Yun** and Jae-Young Sim, "Deep Learning Based Depth Estimation and Reconstruction of Light Field Images," in _Proc. ASC APSIPA_, Dec. 2020.
+- Se-Won Jeong, **Jae-Seong Yun** and Jae-Young Sim, "Multiscale Saliency Detection for Colored 3D Point Clouds Based on Random Walk," in _Proc. ASC APSIPA_, Dec. 2020.
+- **Jae-Seong Yun** and Jae-Young Sim, "Cluster-Wise Removal of Reflection Artifacts in Large-Scale 3D Point Clouds Using Superpixel-Based Glass Region Estimation", in _Proc. IEEE ICIP_, Taipei, Taiwan, Oct. 2019.
+- **Jae-Seong Yun** and Jae-Young Sim, "Reflection Removal for Large-Scale 3D Point Clouds," in _Proc. IEEE/CVF CVPR_, Salt Lake City, UT, USA, Jun. 2018.
+- **Jae-Seong Yun** and Jae-Young Sim, "Supervoxel-Based Saliency Detection for Large-Scale Colored 3D Point Clouds," in _Proc. IEEE ICIP_, Phoenix, AZ, USA, Sep. 2016.
