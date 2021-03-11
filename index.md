@@ -1,5 +1,3 @@
-# Jaeseong Yun
-
 Vision researcher at NAVER LABS Corp. 
 
 ## Research Area
